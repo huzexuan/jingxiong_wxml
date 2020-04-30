@@ -1,0 +1,22 @@
+<view class="content">
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        质量管理
+    </navigator>
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        安全管理
+    </navigator>
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        京 雄 项 目
+    </navigator>
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        京 雄 项 目
+    </navigator>
+</view>
+<view class="btn">
+    <navigator class="navigator_fixed" url="" hover-class="none" open-type="navigate">
+        新增
+    </navigator>
+    <navigator class="navigator_fixed" url="" hover-class="none" open-type="navigate">
+        设置
+    </navigator>
+</view>

@@ -1,0 +1,26 @@
+<view class="title">
+    <span>交融天下</span>
+    <span>建者无疆</span>
+</view>
+<view class="content">
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        京雄项目
+    </navigator>
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        京雄项目
+    </navigator>
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        京雄项目
+    </navigator>
+    <navigator class="navigator" url="/pages/troops/index" hover-class="none" open-type="navigate">
+        京雄项目
+    </navigator>
+</view>
+<view class="btn">
+    <navigator class="navigator_fixed" url="" hover-class="none" open-type="navigate">
+        新增
+    </navigator>
+    <navigator class="navigator_fixed" url="" hover-class="none" open-type="navigate">
+        设置
+    </navigator>
+</view>
